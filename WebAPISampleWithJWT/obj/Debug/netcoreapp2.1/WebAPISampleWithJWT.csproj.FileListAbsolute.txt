@@ -1,0 +1,14 @@
+C:\Users\martin.kuenz\Documents\Visual Studio 2017\Projects\WebAPISampleWithJWT\WebAPISampleWithJWT\bin\Debug\netcoreapp2.1\WebAPISampleWithJWT.deps.json
+C:\Users\martin.kuenz\Documents\Visual Studio 2017\Projects\WebAPISampleWithJWT\WebAPISampleWithJWT\bin\Debug\netcoreapp2.1\WebAPISampleWithJWT.runtimeconfig.json
+C:\Users\martin.kuenz\Documents\Visual Studio 2017\Projects\WebAPISampleWithJWT\WebAPISampleWithJWT\bin\Debug\netcoreapp2.1\WebAPISampleWithJWT.runtimeconfig.dev.json
+C:\Users\martin.kuenz\Documents\Visual Studio 2017\Projects\WebAPISampleWithJWT\WebAPISampleWithJWT\bin\Debug\netcoreapp2.1\WebAPISampleWithJWT.dll
+C:\Users\martin.kuenz\Documents\Visual Studio 2017\Projects\WebAPISampleWithJWT\WebAPISampleWithJWT\obj\Debug\netcoreapp2.1\WebAPISampleWithJWT.csprojAssemblyReference.cache
+C:\Users\martin.kuenz\Documents\Visual Studio 2017\Projects\WebAPISampleWithJWT\WebAPISampleWithJWT\obj\Debug\netcoreapp2.1\WebAPISampleWithJWT.csproj.CoreCompileInputs.cache
+C:\Users\martin.kuenz\Documents\Visual Studio 2017\Projects\WebAPISampleWithJWT\WebAPISampleWithJWT\obj\Debug\netcoreapp2.1\WebAPISampleWithJWT.RazorAssemblyInfo.cache
+C:\Users\martin.kuenz\Documents\Visual Studio 2017\Projects\WebAPISampleWithJWT\WebAPISampleWithJWT\obj\Debug\netcoreapp2.1\WebAPISampleWithJWT.RazorAssemblyInfo.cs
+C:\Users\martin.kuenz\Documents\Visual Studio 2017\Projects\WebAPISampleWithJWT\WebAPISampleWithJWT\obj\Debug\netcoreapp2.1\WebAPISampleWithJWT.AssemblyInfoInputs.cache
+C:\Users\martin.kuenz\Documents\Visual Studio 2017\Projects\WebAPISampleWithJWT\WebAPISampleWithJWT\obj\Debug\netcoreapp2.1\WebAPISampleWithJWT.AssemblyInfo.cs
+C:\Users\martin.kuenz\Documents\Visual Studio 2017\Projects\WebAPISampleWithJWT\WebAPISampleWithJWT\obj\Debug\netcoreapp2.1\WebAPISampleWithJWT.RazorTargetAssemblyInfo.cache
+C:\Users\martin.kuenz\Documents\Visual Studio 2017\Projects\WebAPISampleWithJWT\WebAPISampleWithJWT\bin\Debug\netcoreapp2.1\WebAPISampleWithJWT.pdb
+C:\Users\martin.kuenz\Documents\Visual Studio 2017\Projects\WebAPISampleWithJWT\WebAPISampleWithJWT\obj\Debug\netcoreapp2.1\WebAPISampleWithJWT.dll
+C:\Users\martin.kuenz\Documents\Visual Studio 2017\Projects\WebAPISampleWithJWT\WebAPISampleWithJWT\obj\Debug\netcoreapp2.1\WebAPISampleWithJWT.pdb
